@@ -1,0 +1,41 @@
+{
+    "posts": [
+        {
+            "id": 1,
+            "title": "Exploring the Great Outdoors",
+            "description": "Discover the beauty of nature with our comprehensive guide to hiking, camping, and outdoor adventures. Learn tips and tricks to make the most of your time in the wilderness.",
+            "likes_count": 120
+        },
+        {
+            "id": 2,
+            "title": "The Art of Cooking",
+            "description": "Master the culinary arts with our collection of recipes, cooking techniques, and tips from professional chefs. Whether you're a beginner or an expert, there's something here for everyone.",
+            "likes_count": 185
+        },
+        {
+            "id": 3,
+            "title": "Tech Trends 2024",
+            "description": "Stay ahead of the curve with our in-depth analysis of the latest technology trends. From AI advancements to the newest gadgets, we cover everything you need to know.",
+            "likes_count": 150
+        },
+        {
+            "id": 4,
+            "title": "Fitness for Life",
+            "description": "Get fit and stay healthy with our comprehensive fitness guide. Explore workout routines, nutritional advice, and wellness tips to help you achieve your fitness goals.",
+            "likes_count": 200
+        },
+        {
+            "id": 5,
+            "title": "Travel on a Budget",
+            "description": "Discover how to travel the world without breaking the bank. Our budget travel tips and destination guides will help you plan an unforgettable and affordable adventure.",
+            "likes_count": 95
+        },
+        {
+            "id": 6,
+            "title": "The World of Art",
+            "description": "Dive into the vibrant world of art with our articles on contemporary artists, art history, and creative techniques. Whether you're an artist or an enthusiast, find inspiration here.",
+            "likes_count": 110
+        }
+    ]
+    
+}
